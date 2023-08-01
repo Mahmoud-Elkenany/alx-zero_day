@@ -1,0 +1,1 @@
+This is the fist direvtory for git in the zero alx projectx
